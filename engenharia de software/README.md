@@ -13,3 +13,4 @@ escala - possibilidade de expandir o software, otimizar.
 
 tradeoff - jogo de perde ganha. 
             ex.: trocar performance por não ter mão de obra para desenvolver.
+            
