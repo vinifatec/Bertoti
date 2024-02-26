@@ -12,5 +12,10 @@ tempo - software e código tem grandes chances da estrutura piorar ao longo do t
 escala - possibilidade de expandir o software, otimizar.
 
 tradeoff - jogo de perde ganha. 
-            ex.: trocar performance por não ter mão de obra para desenvolver.
+
+            1º Utilizar python para agilizar no processo de desenvolver e por consequência, perder velocidade de sistema;
+
+            2º Utilizar JAVA para aumentar a velocidade do sistema e por consequência, perder velocidade de desenvolvimento;
+
+            3º Utilizar MongoDB para facilitar a parte de código para armazenamento de dados e perder na capacidade de scalonamento.
             
